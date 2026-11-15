@@ -1,0 +1,18 @@
+# e1wavfx example: render chain with the classic "SBX" look plus an EQ preset.
+# Keys are E1RenderParams field names; see the header of e1wavfx.c.
+master_on      = on
+surround_on    = on
+surround_level = 0.40
+crystal_on     = on
+crystal_level  = 0.65
+bass_on        = on
+bass_level     = 50
+bass_xover_hz  = 80
+svm_on         = off
+dialog_on      = off
+speaker_mode   = headphones
+eq_on          = on
+eq_preset      = Rock
+eq_preamp_db   = -2
+output_gain_db = 0
+limiter_on     = on

@@ -1,0 +1,13 @@
+C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\build\x64\Release\test_apo.exe|C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\tests\apo
+C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\build\x64\Release\test_bass.exe|C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\tests\dsp
+C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\build\x64\Release\test_chain.exe|C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\tests\dsp
+C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\build\x64\Release\test_eq.exe|C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\tests\dsp
+C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\build\x64\Release\test_limiter.exe|C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\tests\dsp
+C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\build\x64\Release\test_params.exe|C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\tests\dsp
+C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\build\x64\Release\test_perf.exe|C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\tests\dsp
+C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\build\x64\Release\test_spatial.exe|C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\tests\dsp_spatial
+C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\build\x64\Release\test_nr_whitebox.exe|C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\tests\dsp_voice
+C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\build\x64\Release\test_voice.exe|C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\tests\dsp_voice
+C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\build\x64\Release\test_panel.exe|C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\tests\panel
+C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\build\x64\Release\test_e1ctl_cli.exe|C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\tools\tests
+C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\build\x64\Release\test_e1ctl_keys.exe|C:\Users\Ranier\Desktop\SoundBlaster E1 Driver\tools\tests

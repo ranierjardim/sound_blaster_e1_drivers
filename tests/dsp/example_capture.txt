@@ -1,0 +1,8 @@
+# e1wavfx example: microphone chain.
+master_on      = on
+nr_on          = on
+nr_strength    = 0.5
+svm_on         = on
+svm_level      = 0.74
+vfx_on         = off
+output_gain_db = 0
